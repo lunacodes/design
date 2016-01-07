@@ -1,0 +1,8 @@
+![alt tag](https://github.com/lunacodes/design/blob/master/Web%20Design/Wandering%20Cellist/Bio%20Page.png)
+![alt tag](http://url/to/img.png)
+![alt tag](http://url/to/img.png)
+![alt tag](http://url/to/img.png)
+![alt tag](http://url/to/img.png)
+![alt tag](http://url/to/img.png)
+![alt tag](http://url/to/img.png)
+![alt tag](http://url/to/img.png)
