@@ -1,3 +1,6 @@
+#DEPRECATED: PLEASE VISIT HTTP://LUNACODES.GITHUB.IO INSTEAD
+
+
 #The Wandering Cellist
 ![alt tag](https://github.com/lunacodes/design/blob/master/Web%20Design/Wandering%20Cellist/Bio%20Page.png)
 ![alt tag](https://github.com/lunacodes/design/blob/master/Web%20Design/Wandering%20Cellist/Gallery%20-%20The%20Wandering%20Cellist.png)
