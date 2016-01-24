@@ -1,4 +1,4 @@
-#DEPRECATED: PLEASE VISIT HTTP://LUNACODES.GITHUB.IO INSTEAD
+#Deprecated: Please visit http://lunacodes.github.io instead
 
 
 #The Wandering Cellist
