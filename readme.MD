@@ -1,4 +1,4 @@
-#Deprecated: Please visit http://lunacodes.github.io instead
+#Deprecated: Please visit behance.net/lunacodes instead
 
 &nbsp;
 &nbsp;
