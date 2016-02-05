@@ -1,4 +1,4 @@
-#Deprecated: Please visit behance.net/lunacodes instead
+#Deprecated: Please visit my [Design Portfolio](http://behance.net/lunacodes) instead
 
 &nbsp;
 &nbsp;
